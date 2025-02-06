@@ -35,6 +35,6 @@ export default {
 .nav a:hover {
     background-color: rgb(252, 252, 255);
     color: rgb(75, 41, 172);
-    sadfdasf
+    
 }
 </style>
